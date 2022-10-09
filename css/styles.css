@@ -67,7 +67,7 @@ a {
 }
 
 .hero-left {
-	max-width: 400px;
+	max-width: 500px;
 }
 
 img.hero {
@@ -163,7 +163,6 @@ h1 {
 	font-size: 48px;
 	font-weight: 800;
 	margin: 0;
-	max-width: 400px;
 }
 
 button {
